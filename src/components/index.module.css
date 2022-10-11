@@ -13,6 +13,11 @@
   margin-top: var(--size-gap);
 }
 
+.title {
+  color: blue;
+  font-size: 3rem;
+}
+
 .listItem {
   margin: 0;
 }
